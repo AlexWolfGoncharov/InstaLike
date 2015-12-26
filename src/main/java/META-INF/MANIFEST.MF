@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Main-Class: com.github.alexwolfgoncharov.instalike.main.StartLike
+Name: InstaLike
+Specification-Title: "Java Utility Classes"
+Specification-Version: "1.8"
+Specification-Vendor: "Sun Microsystems, Inc.".
+Implementation-Title: "java.util"
+Implementation-Version: "build57"
+Implementation-Vendor: "Sun Microsystems, Inc."
+
